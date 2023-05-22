@@ -1,5 +1,4 @@
-# ignore all .html files
+# ignore all .html and pdf files
 *.html
-
-# ignore all .pdf files
 *.pdf
+
