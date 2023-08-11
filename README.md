@@ -9,6 +9,7 @@ About the project:
 
 The structure of the directory is the following: 
 
+- Data: it contains all the datasets
 - Scripts: Python jupyter notebooks scripts
 - Visualization: it contains all the graphics developed through the analysis
 
