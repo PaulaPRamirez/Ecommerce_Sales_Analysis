@@ -19,7 +19,7 @@ The structure of the directory is the following:
 
 Please find the report containing the analyses and conclusions of the project in the **"Ecommerce Analysis"** file. 
 
-The PowerPoint presentation titled **"Analysis Results"** was utilized to deliver the results to the client.
+The presentation titled **"Analysis Powerpoint"** was utilized to deliver the results to the client.
 
 <br>
 
