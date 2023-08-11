@@ -1,4 +1,5 @@
 # Ecommerce Sales Analysis and Recommendation Products Cross-Sell
+
 Sales Analysis of an e-commerce fashion store with the aim of enhancing the company's data-driven culture, identifying purchasing patterns, and increasing sales. 
 Development of a product recommendation algorithm based on historical sales data to promote cross-selling.
 
