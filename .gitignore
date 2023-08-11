@@ -1,5 +1,0 @@
-# ignore all .html, .pdf and .csv files (due to privacy issues)
-*.html
-*.pdf
-*.csv
-
